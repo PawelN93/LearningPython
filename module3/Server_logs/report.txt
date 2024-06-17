@@ -1,0 +1,3 @@
+Amount of tries: 100
+Amount of positive tries: 33
+Amount of negative tries: 67
